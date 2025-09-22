@@ -75,24 +75,24 @@
 ---
 
 ### 🏅 Certificates
-- [SQL (Basic) — HackerRank](YOUR_CREDENTIAL_URL_HERE)  
-- [CSS (Basic) — HackerRank](YOUR_CREDENTIAL_URL_HERE)  
-- [Introduction to MERN Stack](YOUR_CREDENTIAL_URL_HERE)  
-- [Basics of Data Structures and Algorithms — Simplilearn](YOUR_CREDENTIAL_URL_HERE)  
-- [Data Science Career Path — Udemy](YOUR_CREDENTIAL_URL_HERE)  
-- [AI Fundamentals — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
-- [ChatGPT for Beginners — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
-- [Mobile Application Testing — Alison](YOUR_CREDENTIAL_URL_HERE)  
-- [Creating a Local SQLite Database with Node.js — Alison](YOUR_CREDENTIAL_URL_HERE)  
-- [Data Science Foundation — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
-- [Java Programming — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
-- [PHP with MySQL — Udemy](YOUR_CREDENTIAL_URL_HERE)  
-
-> 🔗 *Replace `YOUR_CREDENTIAL_URL_HERE` with each certificate’s credential link.*
+> 📜 *You can view my certificates on my [LinkedIn profile](https://www.linkedin.com/in/thumashi-nawanjana/).* 
+- SQL (Basic) — HackerRank  
+- CSS (Basic) — HackerRank  
+- Introduction to MERN Stack  
+- Basics of Data Structures and Algorithms — Simplilearn  
+- Data Science Career Path — Udemy  
+- AI Fundamentals — Great Learning  
+- ChatGPT for Beginners — Great Learning  
+- Mobile Application Testing — Alison  
+- Creating a Local SQLite Database with Node.js — Alison  
+- Data Science Foundation — Great Learning  
+- Java Programming — Great Learning  
+- PHP with MySQL — Udemy  
 
 ---
 
 ### 📫 Get in Touch
+- **Portfolio:** [thumashi.dev](https://thumashi.dev/)  
 - **Email:** thumashinawanjana@gmail.com  
 - **LinkedIn:** [linkedin.com/in/thumashi-nawanjana](https://www.linkedin.com/in/thumashi-nawanjana/)  
 - **GitHub:** [github.com/thumashi2001](https://github.com/thumashi2001)
@@ -109,4 +109,3 @@
 
 <!-- Optional fun line -->
 ⭐️ *I love turning ideas into simple, useful apps — always learning, always building.*
-
