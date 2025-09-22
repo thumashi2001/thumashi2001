@@ -21,11 +21,31 @@
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** C, C++, **Java**, **Kotlin**, **JavaScript**, Python  
-**Frontend:** **HTML**, **CSS**, **React**  
-**Backend:** **Node.js** (Express), Java EE (Servlets/JSP)  
-**Databases & Tools:** **MySQL**, **MongoDB**, **Git**, GitHub, Postman  
+### 💻 Skills Overview (Animated)
+
+#### 🧠 Programming Languages  
+![C](https://img.shields.io/badge/C-85%25-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-80%25-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-90%25-red?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-75%25-purple?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-88%25-yellow?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-70%25-8892BF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-78%25-3776AB?style=for-the-badge)
+![R](https://img.shields.io/badge/R-60%25-276DC3?style=for-the-badge)
+
+#### 🌐 Web & Mobile Development  
+![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-75%25-43A047?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-65%25-02569B?style=for-the-badge)
+
+#### 🗄️ Databases & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-85%25-4479A1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47A248?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-88%25-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-88%25-181717?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-80%25-FF6C37?style=for-the-badge)
 
 ---
 
@@ -55,16 +75,27 @@
 ---
 
 ### 🏅 Certificates
-- SQL (Basic) — HackerRank  
-- CSS (Basic) — HackerRank  
-- Intro to MERN Stack, Data Structures Basics, AI Fundamentals, Java Programming, PHP with MySQL, and more
+- [SQL (Basic) — HackerRank](YOUR_CREDENTIAL_URL_HERE)  
+- [CSS (Basic) — HackerRank](YOUR_CREDENTIAL_URL_HERE)  
+- [Introduction to MERN Stack](YOUR_CREDENTIAL_URL_HERE)  
+- [Basics of Data Structures and Algorithms — Simplilearn](YOUR_CREDENTIAL_URL_HERE)  
+- [Data Science Career Path — Udemy](YOUR_CREDENTIAL_URL_HERE)  
+- [AI Fundamentals — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
+- [ChatGPT for Beginners — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
+- [Mobile Application Testing — Alison](YOUR_CREDENTIAL_URL_HERE)  
+- [Creating a Local SQLite Database with Node.js — Alison](YOUR_CREDENTIAL_URL_HERE)  
+- [Data Science Foundation — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
+- [Java Programming — Great Learning](YOUR_CREDENTIAL_URL_HERE)  
+- [PHP with MySQL — Udemy](YOUR_CREDENTIAL_URL_HERE)  
+
+> 🔗 *Replace `YOUR_CREDENTIAL_URL_HERE` with each certificate’s credential link.*
 
 ---
 
 ### 📫 Get in Touch
 - **Email:** thumashinawanjana@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/thumashi-nawanjana/  
-- **GitHub:** https://github.com/thumashi2001
+- **LinkedIn:** [linkedin.com/in/thumashi-nawanjana](https://www.linkedin.com/in/thumashi-nawanjana/)  
+- **GitHub:** [github.com/thumashi2001](https://github.com/thumashi2001)
 
 ---
 
